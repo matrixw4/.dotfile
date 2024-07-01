@@ -1,0 +1,7 @@
+# you should update binary cache to use your own themes
+# use command on next line
+# bat cache --build
+--theme="Catppuccin-frappe"
+# --theme="Nord"
+--italic-text=always
+--paging=never
